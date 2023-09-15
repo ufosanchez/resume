@@ -9,14 +9,23 @@ Emerging Web and Mobile Application Developer seeking to acquire the position We
 
 ## PROJECTS
 
-| Syntax | Description |
+| TITLE | URL | TECHNOLOGY |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Tribia Battle Game | https://github.com/ufosanchez?tab=repositories | SwiftUI |
+| Login Page | https://github.com/ufosanchez?tab=repositories | HTML, CSS, JAVASCRIPT |
 
 ## EDUCATION
 
+- Web Development - Humber College - 2024
+- Mechatronics Engineering  - 2021
+
 ## WORK EXPERIENCE
 
+- Validation Apprentice - Laboratorios Chalver de Colombia S.A - 2020
+
 ## CONTACT
+
+- GitHub: https://github.com/ufosanchez
+- LinkedIn: https://www.linkedin.com/in/arnulfos%C3%A1nchez/
+
 
