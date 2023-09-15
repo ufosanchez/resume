@@ -1,10 +1,10 @@
-# resume
+# RESUME
 
 ## PROJECTS
 
 ## EXPERIENCE
 
-## EUCATION
+## EDUCATION
 
 ## CONTACT
 
