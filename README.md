@@ -13,10 +13,10 @@ Emerging Web and Mobile Application Developer seeking to acquire the position We
 | Tribia Battle Game | https://github.com/ufosanchez?tab=repositories | SwiftUI |
 | Login Page | https://github.com/ufosanchez?tab=repositories | HTML, CSS, JAVASCRIPT |
 
-| Syntax | Description | aaaa
-| ----------- | ----------- | aa
-| Header | Title | aa
-| Paragraph | Text | aa
+| Syntax | Description | Syntax | Description |
+| ----------- | ----------- | Syntax | Description |
+| Header | Title | Syntax | Description |
+| Paragraph | Text | Syntax | Description |
 
 ## EDUCATION
 
