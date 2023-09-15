@@ -1,5 +1,3 @@
-# RESUME
-
 # Arnulfo David Sánchez Peña
 
 ## ABOUT
