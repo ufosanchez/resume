@@ -24,5 +24,5 @@ Emerging Web and Mobile Application Developer seeking to acquire the position We
 ### Education
 
 - Web Development - Humber College - 2024
-- Mechatronics Engineering  - 2021
+- Mechatronics Engineering - Universidad Militar Nueva Granada - 2021
 
